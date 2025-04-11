@@ -1,0 +1,101 @@
+CustomerID,Age,Location_Type,Household_Size,Days_Since_Last_Purchase,Monthly_Orders,Total_Spend_Last_3_Months,Avg_Session_Duration_Minutes,Preferred_Category,Coupon_Usage_Rate,Organic_Purchase_Ratio,App_Features_Used,Cluster
+0,64,Rural,4,70,1,701.3,3.3,Canned Goods,0.62,0.3,List+Coupons,0
+1,39,Urban,10,5,8,2884.42,10.65,Dairy,0.57,0.27,Coupons,2
+2,74,Rural,3,48,0,519.26,4.19,Organic,0.67,0.2,List+Recipes,0
+3,53,Suburban,0,5,4,3719.66,14.6,Organic,0.03,0.99,None,1
+4,56,Urban,2,4,3,3890.06,15.74,Dairy,0.0,1.0,List+Recipes,1
+5,80,Rural,10,53,1,945.03,5.05,Canned Goods,0.86,0.14,List+Coupons,0
+6,39,Suburban,0,4,4,3780.37,17.04,Organic,0.0,1.0,List+Recipes,1
+7,39,Urban,2,4,3,3620.25,15.55,Organic,0.0,0.86,List,1
+8,76,Rural,0,72,0,773.09,5.26,Dairy,0.74,0.18,List+Coupons,0
+9,25,Suburban,3,5,7,1725.21,8.08,Dairy,0.3,0.41,List+Recipes,2
+10,72,Rural,8,72,1,596.4,6.91,Dairy,0.82,0.25,List+Coupons,0
+11,37,Suburban,4,5,7,2012.52,10.64,Organic,0.57,0.29,List+Coupons,2
+12,74,Suburban,7,66,1,874.22,5.79,Snacks,1.0,0.23,List+Coupons,0
+13,53,Suburban,1,3,4,3827.63,16.84,Produce,0.0,0.89,None,1
+14,41,Suburban,3,2,5,2745.47,16.56,Organic,0.1,0.84,List+Recipes,1
+15,27,Suburban,7,3,7,1251.39,11.87,Produce,0.41,0.13,List+Coupons,2
+16,62,Rural,3,4,4,2717.18,15.03,Organic,0.0,0.78,List+Recipes,1
+17,53,Suburban,1,4,3,3859.03,16.67,Produce,0.0,0.86,List+Recipes,1
+18,30,Urban,2,4,4,3483.56,15.55,Organic,0.0,1.0,List+Recipes,1
+19,24,Urban,4,3,8,2351.09,6.71,Dairy,0.23,0.21,List+Recipes,2
+20,46,Rural,1,2,4,3587.94,14.66,Produce,0.29,0.95,List+Recipes,1
+21,40,Rural,4,4,8,1666.11,12.17,Dairy,0.48,0.47,Coupons,2
+22,80,Rural,5,61,1,380.88,6.54,Snacks,0.76,0.19,List+Coupons,0
+23,71,Rural,3,66,1,594.39,4.85,Snacks,0.79,0.06,Coupons,0
+24,33,Rural,10,4,7,1658.32,10.78,Snacks,0.22,0.29,List+Recipes,2
+25,30,Urban,7,4,6,2553.94,10.6,Produce,0.62,0.27,List+Coupons,2
+26,63,Rural,2,60,1,854.95,3.42,Snacks,1.0,0.22,List+Recipes,0
+27,54,Suburban,4,53,0,657.2,4.29,Canned Goods,0.92,0.18,Coupons,0
+28,71,Suburban,6,52,1,565.82,3.86,Dairy,0.69,0.19,List+Coupons,0
+29,62,Urban,7,46,1,805.75,5.67,Canned Goods,0.78,0.12,List,0
+30,63,Rural,6,58,1,957.25,5.84,Canned Goods,0.6,0.29,List+Coupons,0
+31,30,Suburban,3,4,7,1079.43,13.52,Dairy,0.38,0.32,List+Recipes,2
+32,28,Rural,6,4,5,2164.48,11.84,Dairy,0.34,0.36,List+Coupons,2
+33,75,Suburban,9,48,1,520.23,5.6,Produce,0.55,0.2,Coupons,0
+34,38,Suburban,0,5,5,3228.07,14.15,Organic,0.0,0.86,List+Recipes,1
+35,40,Suburban,3,5,5,2832.15,17.09,Organic,0.04,0.74,List+Recipes,1
+36,52,Suburban,1,3,4,4054.64,16.49,Snacks,0.07,0.75,List+Recipes,1
+37,69,Rural,2,57,0,760.5,3.24,Canned Goods,0.89,0.17,None,0
+38,35,Suburban,4,2,4,3053.73,16.02,Dairy,0.0,0.71,List+Recipes,1
+39,65,Rural,3,59,0,716.06,2.98,Snacks,0.99,0.1,List+Coupons,0
+40,72,Rural,5,60,0,822.07,5.13,Dairy,0.74,0.27,List,0
+41,73,Suburban,4,48,0,831.96,5.28,Canned Goods,0.75,0.01,List+Coupons,0
+42,56,Urban,2,4,2,4379.64,16.02,Organic,0.1,0.78,None,1
+43,26,Suburban,2,4,9,1642.58,10.57,Snacks,0.47,0.21,List+Coupons,2
+44,47,Urban,2,5,3,2828.72,15.34,Organic,0.02,0.81,None,1
+45,51,Urban,1,4,4,3513.69,12.78,Organic,0.0,0.82,List,1
+46,36,Rural,0,2,4,3333.25,18.08,Organic,0.15,0.81,List+Recipes,1
+47,47,Suburban,1,5,2,3291.73,17.0,Organic,0.11,0.87,List,1
+48,42,Suburban,4,5,4,4035.76,16.33,Organic,0.12,0.91,Coupons,1
+49,71,Rural,4,78,0,572.44,3.83,Canned Goods,0.94,0.1,List+Recipes,0
+50,56,Rural,6,55,0,897.87,2.71,Dairy,0.97,0.16,List+Recipes,0
+51,30,Rural,8,2,5,1774.3,6.51,Organic,0.36,0.38,List+Recipes,2
+52,44,Urban,7,2,7,1622.98,6.97,Canned Goods,0.41,0.37,List+Coupons,2
+53,66,Suburban,4,66,0,733.79,4.08,Canned Goods,1.0,0.08,Coupons,0
+54,72,Rural,1,57,1,671.16,5.38,Snacks,0.69,0.05,List+Coupons,0
+55,60,Rural,7,54,1,302.67,4.72,Canned Goods,1.0,0.24,List+Coupons,0
+56,60,Suburban,7,65,1,630.02,6.8,Canned Goods,0.72,0.16,Coupons,0
+57,41,Suburban,6,3,6,1932.75,10.92,Snacks,0.34,0.33,List+Recipes,2
+58,43,Suburban,2,5,2,2877.61,15.09,Organic,0.0,0.85,List+Recipes,1
+59,44,Suburban,3,5,4,4258.19,15.01,Organic,0.14,0.79,List+Recipes,1
+60,77,Rural,7,48,1,684.78,4.01,Organic,0.81,0.12,List+Coupons,0
+61,76,Rural,7,49,1,768.61,2.72,Produce,1.0,0.17,List+Coupons,0
+62,75,Rural,4,76,0,863.05,1.99,Organic,0.91,0.2,List+Coupons,0
+63,67,Rural,4,53,1,644.74,2.46,Produce,0.92,0.18,List+Coupons,0
+64,44,Urban,3,3,4,3884.94,15.35,Organic,0.12,0.91,List+Recipes,1
+65,54,Urban,1,3,4,4067.71,15.34,Organic,0.0,0.8,List+Recipes,1
+66,32,Urban,7,3,7,2029.18,9.66,Organic,0.35,0.32,List+Recipes,2
+67,72,Rural,3,56,1,1430.96,5.61,Snacks,0.64,0.05,Coupons,0
+68,62,Rural,5,55,0,594.06,4.75,Canned Goods,0.77,0.15,List+Coupons,0
+69,31,Rural,5,5,7,2019.32,8.15,Organic,0.33,0.23,List+Coupons,2
+70,74,Rural,4,49,1,619.17,3.86,Snacks,0.75,0.24,List,0
+71,46,Suburban,1,5,4,3713.78,15.94,Organic,0.49,0.83,List,1
+72,63,Urban,6,61,0,163.84,4.16,Snacks,0.78,0.12,List+Recipes,0
+73,68,Rural,8,35,0,887.86,3.15,Snacks,0.78,0.37,List+Coupons,0
+74,59,Rural,2,57,1,619.96,4.61,Canned Goods,0.83,0.3,List+Coupons,0
+75,42,Suburban,1,3,4,3258.19,15.38,Organic,0.0,0.89,List+Recipes,1
+76,46,Suburban,3,5,4,3029.18,16.23,Organic,0.02,0.74,List+Recipes,1
+77,47,Urban,1,3,4,3672.95,13.81,Organic,0.25,0.88,List+Recipes,1
+78,55,Urban,4,3,4,3011.46,17.33,Organic,0.0,1.0,List+Recipes,1
+79,47,Urban,1,3,4,3506.9,17.68,Organic,0.03,0.86,List+Recipes,1
+80,33,Rural,3,4,6,1960.33,13.46,Produce,0.34,0.37,List+Coupons,2
+81,51,Suburban,0,3,4,3150.78,14.93,Produce,0.33,1.0,List+Recipes,1
+82,49,Suburban,2,4,1,3567.26,15.08,Canned Goods,0.0,0.88,Coupons,1
+83,64,Urban,7,53,1,734.55,4.16,Snacks,0.88,0.21,List+Coupons,0
+84,75,Rural,3,62,1,493.9,4.28,Canned Goods,1.0,0.18,List+Recipes,0
+85,50,Urban,2,5,3,3324.03,17.19,Organic,0.18,1.0,List+Recipes,1
+86,44,Suburban,6,3,7,1851.11,11.21,Canned Goods,0.46,0.4,List+Recipes,2
+87,64,Rural,4,59,0,995.9,4.92,Snacks,0.81,0.25,Coupons,0
+88,38,Urban,0,3,3,3869.08,16.2,Organic,0.0,1.0,List+Coupons,1
+89,40,Urban,1,3,3,3707.35,14.21,Organic,0.24,0.78,List+Recipes,1
+90,52,Suburban,1,3,3,3880.51,15.96,Snacks,0.09,0.76,List+Recipes,1
+91,80,Rural,4,76,0,916.66,6.06,Dairy,0.87,0.15,List+Coupons,0
+92,33,Suburban,2,5,6,1856.1,9.38,Produce,0.29,0.51,List+Coupons,2
+93,40,Suburban,3,3,7,2071.64,8.61,Snacks,0.54,0.29,List+Recipes,2
+94,40,Suburban,5,4,7,2158.23,10.18,Produce,0.67,0.3,List+Coupons,2
+95,61,Rural,7,54,0,1071.22,4.73,Dairy,0.73,0.2,List+Coupons,0
+96,51,Suburban,2,2,4,4062.65,16.97,Organic,0.36,0.72,Coupons,1
+97,48,Urban,3,2,3,3445.77,14.47,Organic,0.0,0.72,List+Recipes,1
+98,53,Urban,1,3,4,3031.21,15.7,Organic,0.09,0.83,List+Recipes,1
+99,55,Urban,0,2,3,4028.01,17.17,Organic,0.07,0.95,Coupons,1
