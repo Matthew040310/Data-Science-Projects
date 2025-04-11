@@ -1,0 +1,146 @@
+CourseID,CourseName
+ACCT101,Financial Accounting
+ACCT102,Management Accounting
+ACCT337,Statistical Programming
+ACCT420,Forecasting & Forensic Analytics
+ACCT421,Analytics for Value Investing
+ACCT428,Digital Transformation in Accounting (Personalised Learning)
+COMM255,User Experience and Digital Product Design
+COR1100,Writing and Reasoning
+COR1201,Calculus
+COR1305,Spreadsheet Modeling & Analytics
+COR1306,Capital Markets in China
+COR2100,Econs and Society
+COR2226,Infocomm and Technology Law
+COR3001,Big Questions
+COR3301,Ethics and Social Responsibility
+COR-COMM1304,Management Communciation
+COR-IS1702,Computational Thinking
+COR-JPAN2401,Japanese
+COR-KREA2402,Korean
+COR-MGMT1303,Entrepreneurship and Business Creation
+COR-STAT1202,Introductory Statistics
+CS101,Programming Fundamentals 1
+CS102,Programming Fundamentals 2
+CS103,Linear Algebra for Computing Applications
+CS104,Mathematical Foundations of Computing
+CS105,Statistical Thinking for Data Science
+CS106,Computer Hardware and Embedded System
+CS201,Data Structures and Algorithms
+CS202,Design and Analysis of Algorithms
+CS204,Interconnection of Cyber-Physical Systems
+CS205,Operating System Concepts with Andriod
+CS206,Software Product Management
+CS301,IT Solution Architecture (SMU-X)
+CS302,IT Solution Lifecycle Management
+CS420,Introduction to Artificial Intelligence
+CS421,Principles of Machine Learning
+CS422,Reasoning Planning and Learning under Uncertainity
+CS423,Heuristic Search and Optimization
+CS424,Image Perception
+CS425,Natural Language Communication
+CS426,Agent-based Modeling and Simulation
+CS440,Foundations of Cybersecurity
+CS441,Network Security
+CS442,Data Security and Privacy
+CS443,Software and Systems Security
+CS444,Strategic CyberSecurity Management
+CS445,Cyber Threat Intelligence
+CS460,Foundations of Cyber-Physical Systems
+CS461,Mobile & Pervasive Computing and Applications
+CS462,Internet of Things: Technology and Applications (SMU-X)
+CSU,Community Service
+DSA201,Statistical Inference for Data Science
+DSA211,Statistical Learning with R
+DSA212,Data Analytics with R
+DSA301,Time Series Data Analysis
+DSA303,Spatial Data Analysis
+DSA305,Panel Data Analysis
+DSA306,Big Data Analytics
+ECON233,Economic Forecasting
+ECON245,Applied Healthcare Analytics
+FNCE101,Finance
+FNCE313,Financial Innovation Blockchains and Decentralised Finance
+IRM,Internship
+IS105,Business Data Management
+IS111,Introduction to Programming
+IS112,Data Management
+IS113,Web Application Development 1
+IS114,Computing Fundaments
+IS210,Business Process Analysis & Solutioning
+IS211,Interaction Design and Prototyping
+IS212,Software Project Management
+IS213,Enterprise Solution Development
+IS214,Enterprise Solution Management
+IS215,Digital Business Technology & Transformation
+IS216,Web Application Development 2
+IS217,Analytics Foundations
+IS404,Technopreneurship Study Mission (Asia)
+IS405,Technopreneurship Study Mission (Non-Asia)
+IS412,Enterprise Business Solutions (SMU-X)
+IS415,Geospatial Analytics & Applications
+IS417,Data Warehousing & Business Analytics
+IS419,Retail Banking & Mobile Technology
+IS423,Financial Markets Processes & Technology
+IS424,Data Mining & Business Analytics
+IS425,Digital Transformation Strategy (SMU-X)
+IS428,Visual Analytics for Business Intelligence
+IS430,Digital Payments and Innovation
+IS434,Social Analytics & Applications (SMU-X)
+IS442,Object Oriented Programming
+IS444,Digital Banking Enterprise Architecture
+IS445,Corporate Banking Technology
+IS446,Managing Customer Relations with Analytics: Asian Insights
+IS447,Smart Healthcare in Asia
+IS450,Text Mining and Language Processing
+IS452,Blockchain Applications in Financial Services
+IS453,Financial Analytics
+IS454,Applied Enterprise Analytics (SMU-X)
+IS455,Overseas Project Experience (Data Analytics in Asia) (SMU-X)
+IS456,Overseas Project Experience (IS Technopreneurship)
+IS457,Fairness in Socio-technical Systems
+IS458,Cloud Management and Engineering
+IS459,Big Data Architecture 
+IS460,Machine Learning & Applications
+IS461,AI Governance
+IS462,Virtual Reality for Business (SMU-X)
+IS463,Digital Technologies for Environmental Sustainability
+IS483,Project Experience
+IS484,Project Experience (Fintech)
+IS485,Project Experience
+IS492,Cloud Solution Development Work-Study Elective
+LAW401,Intellectual Property Law
+LAW486,Privacy and Data Protection Law
+LGST101,Business Law
+MGMT102,Strategy
+MGMT236,Managing Strategic Change and Digital Transformation
+MGMT240,Doing Business with Artificial Intelligence
+MGMT245,Digital Business Transformation Across Asia Practicum (SMU-X)
+MGMT318,Design Thinking and Innovation (SMU-X)
+MGMT319,Management of Technology and Innovation
+MGMT345,Ecosystem (SMU-X)
+MKTG101,Marketing
+MKTG228,Marketing Analytics
+OBHR101,Management of People at Work
+OBHR225,Technology Solutions for Human Resources
+OPIM101,Decision Analysis
+OPIM201,Operations Management
+OPIM326,Service & Operations Analytics
+POSC101,Introduction to Public Policy
+QF101,Quantitative Finance
+QF102,Investment Statistics
+QF205,Computing Technology for Finance
+QF208,Linear Algebra & Numerical Methods
+QF209,Machine Learning in Quantitative Finance
+SMT112,Sustainable Digital Cities
+SMT201,Geographic Information Systems for Urban Planning
+SMT202,Analytics Applications for Smart Living (SMU-X)
+SMT203,Computational Social Sciences: Principles and Applications
+SMT401,Social Technopreneurship Study Mission
+SMT481,Smart-City Operations Research
+STAT201,Probability Theory and Applications
+STAT313,Quantitative Risk Analysis
+IS491,Analytics and Cloud Tech WSE
+IS464,Data Analytics & Tech GEC
+IS465,Quantum Computing in Financial Services
+IS466,Digital Ethics for Responsible Computing

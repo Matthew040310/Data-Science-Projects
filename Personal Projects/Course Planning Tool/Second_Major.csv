@@ -1,0 +1,113 @@
+CourseID,Track,Major,Mandatory
+ACCT101,,Quantitative Finance,Quantitative Finance (Choose 1)
+ACCT337,,,
+ACCT420,,Data Science and Analytics,"Data Science and Analytics (DA List)
+Max 5, Min 1"
+ACCT421,,,
+ACCT428,,Digital Business,Digital Business Basket A (choose 2)
+COMM255,,Digital Business,Digital Business Basket A (choose 2)
+COR1201,,Quantitative Finance,Quantitative Finance (Choose 1)
+COR1305,,Data Science and Analytics,"Data Science and Analytics (CT List)
+Max 5, Min 1"
+COR-COMM1304,,Quantitative Finance,Quantitative Finance (Choose 1)
+COR-IS1702,,Data Science and Analytics,Data Science and Analytics
+CS101,,Computing Studies,Computing Studies or IS111
+CS101,,Digital Business,Digital Business or IS111
+CS102,,Computing Studies,Computing Studies
+CS103,,Computing Studies,Computing Studies
+CS104,,Computing Studies,Computing Studies
+CS105,,Computing Studies,Computing Studies
+CS106,,Computing Studies,Computing Studies
+CS201,,Computing Studies,Computing Studies
+CS202,,Computing Studies,Computing Studies
+CS204,,Computing Studies,Computing Studies
+CS205,,Computing Studies,Computing Studies
+CS206,,Computing Studies,Computing Studies
+CS301,,Computing Studies,Computing Studies
+CS420,Artifical Intelligence,Computing Studies,Artifical Intelligence
+CS420,,Data Science and Analytics,"Data Science and Analytics (CT List)
+Max 5, Min 1"
+CS421,Artifical Intelligence,Computing Studies,
+CS421,,Data Science and Analytics,"Data Science and Analytics (CT List)
+Max 5, Min 1"
+CS422,Artifical Intelligence,Computing Studies,Artifical Intelligence (Choose 3)
+CS423,Artifical Intelligence,Computing Studies,Artifical Intelligence (Choose 3)
+CS424,Artifical Intelligence,Computing Studies,Artifical Intelligence (Choose 3)
+CS425,Artifical Intelligence,Computing Studies,Artifical Intelligence (Choose 3)
+CS426,Artifical Intelligence,Computing Studies,Artifical Intelligence (Choose 3)
+CS440,CyberSecurity,Computing Studies,CyberSecurity
+CS441,CyberSecurity,Computing Studies,CyberSecurity (Choose 3)
+CS442,CyberSecurity,Computing Studies,CyberSecurity (Choose 3)
+CS443,CyberSecurity,Computing Studies,CyberSecurity (Choose 3)
+CS443,Physical CyberSecurity,Computing Studies,Physical CyberSecurity (Choose 3)
+CS444,CyberSecurity,Computing Studies,CyberSecurity (Choose 3)
+CS445,CyberSecurity,Computing Studies,CyberSecurity (Choose 3)
+CS460,Physical CyberSecurity,Computing Studies,Physical CyberSecurity
+CS461,Physical CyberSecurity,Computing Studies,Physical CyberSecurity (Choose 3)
+CS462,Physical CyberSecurity,Computing Studies,Physical CyberSecurity (Choose 3)
+DSA201,,Data Science and Analytics,Data Science and Analytics
+DSA211,,Data Science and Analytics,Data Science and Analytics
+DSA212,,Data Science and Analytics,Data Science and Analytics
+DSA301,,Data Science and Analytics,"Data Science and Analytics (DA List)
+Max 5, Min 1"
+DSA303,,Data Science and Analytics,"Data Science and Analytics (DA List)
+Max 5, Min 1"
+DSA305,,Data Science and Analytics,"Data Science and Analytics (DA List)
+Max 5, Min 1"
+DSA306,,Data Science and Analytics,"Data Science and Analytics (DA List)
+Max 5, Min 1"
+ECON233,,Data Science and Analytics,"Data Science and Analytics (DA List)
+Max 5, Min 1"
+ECON245,,Data Science and Analytics,Data Science and Analytics Elective
+FNCE101,,Quantitative Finance,Quantitative Finance
+FNCE313,,Digital Business,Digital Business Basket A (choose 2)
+IS105,,Data Science and Analytics,"Data Science and Analytics (CT List)
+Max 5, Min 1"
+IS111,,Computing Studies,Computing Studies or CS101
+IS111,,Digital Business,Digital Business or CS101
+IS112,,Computing Studies,Computing Studies
+IS112,,Data Science and Analytics,"Data Science and Analytics (CT List)
+Max 5, Min 1"
+IS210,,Digital Business,Digital Business Basket B (choose 1)
+IS211,,Computing Studies,Computing Studies
+IS211,,Digital Business,Digital Business Basket B (choose 1)
+IS215,,Digital Business,Digital Business
+IS217,,Digital Business,Digital Business Basket B (choose 1)
+IS415,Physical CyberSecurity,Computing Studies,Physical CyberSecurity (Choose 3)
+IS415,,Data Science and Analytics,"Data Science and Analytics (CT List)
+Max 5, Min 1"
+IS417,,Data Science and Analytics,"Data Science and Analytics (DA List)
+Max 5, Min 1"
+IS424,,Data Science and Analytics,"Data Science and Analytics (DA List)
+Max 5, Min 1"
+IS425,,Digital Business,Digital Business Basket B (choose 1)
+IS428,,Data Science and Analytics,"Data Science and Analytics (CT List)
+Max 5, Min 1"
+IS450,,Data Science and Analytics,"Data Science and Analytics (DA List)
+Max 5, Min 1"
+IS458,Physical CyberSecurity,Computing Studies,Physical CyberSecurity (Choose 3)
+IS458,,Digital Business,Digital Business Basket B (choose 1)
+IS460,,Data Science and Analytics,"Data Science and Analytics (CT List)
+Max 5, Min 1"
+IS462,,Digital Business,Digital Business Basket B (choose 1)
+MGMT102,,Quantitative Finance,Quantitative Finance (Choose 1)
+MGMT236,,Digital Business,Digital Business
+MGMT240,,Digital Business,Digital Business Basket A (choose 2)
+MGMT245,,Digital Business,Digital Business Basket A (choose 2)
+MGMT345,,Digital Business,Digital Business Basket A (choose 2)
+MKTG101,,Quantitative Finance,Quantitative Finance (Choose 1)
+MKTG228,,Data Science and Analytics,"Data Science and Analytics (DA List)
+Max 5, Min 1"
+OBHR101,,Quantitative Finance,Quantitative Finance (Choose 1)
+OBHR225,,Digital Business,Digital Business Basket A (choose 2)
+OPIM326,,Data Science and Analytics,"Data Science and Analytics (DA List)
+Max 5, Min 1"
+QF101,,Quantitative Finance,Quantitative Finance
+QF102,,Quantitative Finance,Quantitative Finance
+QF205,,Quantitative Finance,Quantitative Finance
+QF208,,Quantitative Finance,Quantitative Finance Elective (2/3)
+QF209,,Quantitative Finance,Quantitative Finance Elective (2/3)
+SMT112,,Digital Business,Digital Business Basket B (choose 1)
+SMT481,Physical CyberSecurity,Computing Studies,Physical CyberSecurity (Choose 3)
+STAT201,,Data Science and Analytics,Data Science and Analytics
+STATS313,,Quantitative Finance,Quantitative Finance Elective (2/3)
